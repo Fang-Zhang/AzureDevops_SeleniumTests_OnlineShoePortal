@@ -7,7 +7,7 @@ using System.IO;
 using System.Reflection;
 using System.Threading;
 using SeleniumExtras.WaitHelpers;
-using ExpectedConditions = OpenQA.Selenium.Support.UI.ExpectedConditions;
+// using ExpectedConditions = OpenQA.Selenium.Support.UI.ExpectedConditions;
 using OpenQA.Selenium.Support.UI;
 using OnlineShoePortal.PageObjects;
 
